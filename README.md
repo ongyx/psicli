@@ -1,7 +1,7 @@
 <p align="center">
+  <a href="https://github.com/sn3ksoftware/psilib">psilib</a> &bull;
   <b> psiman </b> &bull;
-  <a href="https://github.com/sn3ksoftware/psidex">psidex</a> &bull;
-    <a href="https://github.com/sn3ksoftware/sandpkg">sandpkg</a>
+  <a href="https://github.com/sn3ksoftware/psidex">psidex</a>
 </p>
 
 # psiman: The PSIdex package MANager
