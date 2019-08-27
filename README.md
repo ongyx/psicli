@@ -21,17 +21,21 @@ Platforms supported:
 | --- | --- |
 | [Libterm](https://github.com/ColdGrub1384/LibTerm) | v0.1.0 |
 | [Pythonista](http://omz-software.com/pythonista/) | v0.1.0 |
-| Linux (Generic) | -WIP- |
+| Linux/GNU and *nix | -WIP- |
 | Windows | -WIP- |
 
 (More platforms will be added as needed.)
 # Dependencies
-psiman, of course, requires Python 3.5+.
-It only requires stlib that comes with Python 3.5+ and the requests library (preinstalled on Pythonista and Libterm), so it should work out of the box.
+Python 3.5+ is required as psiman is written in Python3.
+The requests library is the only external dependency (preinstalled on Pythonista and Libterm),
+so it should work out of the box.
 For Pythonista, [StaSh](https://github.com/ywangd/stash) is required to run psiman.
 Install with `import requests as r; exec(r.get('https://bit.ly/get-stash').text)`.
+
 # Installation
+
 ## Libterm/Pythonista:
+
 If you are on Pythonista, launch a StaSh instance first (launch_stash.py and press the play button).
 Download the installer and run it.
 ```
