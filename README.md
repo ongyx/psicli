@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/sn3ksoftware/psiman/master/psiman_logo.png" alt="psiman_logo:Ψ" width="200"/>
 
-Welcome to the repo for psiman, a json-based package manager that uses the [psidex](https://github.com/sn3ksoftware/psidex) system.
+Welcome to the repo for psiman, a frontend for psilib that uses the [psidex](https://github.com/sn3ksoftware/psidex) system.
 
 For mobile users, click [here](https://github.com/sn3ksoftware/psilib/wiki) to access the psilib/psiman wiki.
 
@@ -31,17 +31,14 @@ It only requires stlib that comes with Python 3.5+ and the requests library (pre
 For Pythonista, [StaSh](https://github.com/ywangd/stash) is required to run psiman.
 Install with `import requests as r; exec(r.get('https://bit.ly/get-stash').text)`.
 # Installation
-## Libterm:
+## Libterm/Pythonista:
+If you are on Pythonista, launch a StaSh instance first (launch_stash.py and press the play button).
 Download the installer and run it.
 ```
 curl -O https://raw.githubusercontent.com/sn3ksoftware/psilib/master/install.py
 python install.py
 ```
-## Pythonista:
-Open the Python interpreter (under `Console`) and run the command below. (Method copied from StaSh)
-```
-import requests as r; exec(r.get('https://raw.githubusercontent.com/sn3ksoftware/psilib/master/install.py').text)
-```
+
 Configuration files are, by default, stored at `~/Documents/.psicfg`.
 
 # P.S
