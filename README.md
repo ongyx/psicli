@@ -25,6 +25,22 @@ Platforms supported:
 | Windows | -WIP- |
 
 (More platforms will be added as needed.)
+
+# What’s the point?
+I wanted to revive the [Pythonista Script Index](https://github.com/sn3ksoftware/Pythonista-Script-Index) proof of concept
+because it would be a waste to not try and complete it as much as possible.
+Also, becuase the Pythonista Script Index pushes part of the repo management to the dev, allowing for easier
+updating of scripts and modules.
+
+This means that index.json is in one repo, package.json in another and the actual zip containing the package in yet another repo!
+
+
+I moved psilib to another repository, and the psilib code was abstracted from psiman
+so that:
+1. psilib can be scripted.
+2. psilib can be developed independently of psiman.
+3. The psilib code can be reused by other developers more cleanly.
+
 # Dependencies
 Python 3.5+ is required as psiman is written in Python3.
 The requests library is the only external dependency (preinstalled on Pythonista and Libterm),
