@@ -15,7 +15,7 @@ For mobile users, click [here](https://github.com/sn3ksoftware/psilib/wiki) to a
 
 Platforms supported:
 
-| Platform  | Version of psiman(cli-wrapper) |
+| Platform  | Version |
 | --- | --- |
 | [Libterm](https://github.com/ColdGrub1384/LibTerm) | ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/sn3ksoftware/psiman?include_prereleases&sort=semver) |
 | [Pythonista](http://omz-software.com/pythonista/) | ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/sn3ksoftware/psiman?include_prereleases&sort=semver) |
