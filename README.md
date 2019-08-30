@@ -7,8 +7,6 @@
 # psiman: The PSIdex package MANager
 (formerly [spkg for Libterm](https://github.com/sn3ksoftware/sandpkg/tree/testing))
 
-![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/sn3ksoftware/psiman?include_prereleases&sort=semver)
-
 <img src="https://raw.githubusercontent.com/sn3ksoftware/psiman/master/psiman_logo.png" alt="psiman_logo:Ψ" width="200"/>
 
 Welcome to the repo for psiman, a frontend for psilib that uses the [psidex](https://github.com/sn3ksoftware/psidex) system.
@@ -19,8 +17,8 @@ Platforms supported:
 
 | Platform  | Version of psiman(cli-wrapper) |
 | --- | --- |
-| [Libterm](https://github.com/ColdGrub1384/LibTerm) | v0.1.0 |
-| [Pythonista](http://omz-software.com/pythonista/) | v0.1.0 |
+| [Libterm](https://github.com/ColdGrub1384/LibTerm) | ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/sn3ksoftware/psiman?include_prereleases&sort=semver) |
+| [Pythonista](http://omz-software.com/pythonista/) | ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/sn3ksoftware/psiman?include_prereleases&sort=semver) |
 | Linux/GNU and *nix | -WIP- |
 | Windows | -WIP- |
 
