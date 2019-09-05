@@ -40,7 +40,8 @@ so that:
 3. The psilib code can be reused by other developers more cleanly.
 
 # Dependencies
-Python 3.5+ is required as psiman is written in Python3.
+Python 3.6+ is required as psiman is written in Python3.
+(Python 2.7 is not supported right now.)
 The requests library is the only external dependency (preinstalled on Pythonista and Libterm),
 so it should work out of the box.
 For Pythonista, [StaSh](https://github.com/ywangd/stash) is required to run psiman.
