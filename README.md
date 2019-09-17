@@ -56,7 +56,7 @@ Install with `import requests as r; exec(r.get('https://bit.ly/get-stash').text)
 If you are on Pythonista, launch a StaSh instance first (launch_stash.py and press the play button).
 Download the installer and run it.
 ```
-curl -O https://raw.githubusercontent.com/sn3ksoftware/psilib/master/install.py
+curl -o install.py https://raw.githubusercontent.com/sn3ksoftware/psilib/master/install.py
 python install.py
 ```
 
