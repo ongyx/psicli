@@ -4,7 +4,7 @@
   <a href="https://github.com/sn3ksoftware/psidex">psidex</a>
 </p>
 
-# psicli: The PSIdex package MANager
+# psicli: The PSIdex Commmand Line Interface
 (formerly [spkg for Libterm](https://github.com/sn3ksoftware/sandpkg/tree/testing))
 
 <img src="https://raw.githubusercontent.com/sn3ksoftware/psicli/master/psiman_logo.png" alt="psiman_logo:Ψ" width="200"/>
